@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="voorgerechttekst" min="-2" max="-2" attributes="0"/>
+                          <Component id="carpaccioBestellen" min="-2" max="-2" attributes="0"/>
+                          <Component id="soepBestellen" min="-2" max="-2" attributes="0"/>
+                          <Component id="bruchettaBestellen" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="41" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="pizzaBestelen" min="-2" pref="57" max="-2" attributes="0"/>
+                          <Component id="etenTekst" min="-2" max="-2" attributes="0"/>
+                          <Component id="pasteBestellen" alignment="0" min="-2" pref="57" max="-2" attributes="0"/>
+                          <Component id="kindermenuBestellen" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="kortingKnop" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="prijsWeergeven" min="-2" pref="73" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                          <Component id="colaBestellen" min="-2" max="-2" attributes="0"/>
+                          <Component id="drinkenTekst" min="-2" pref="57" max="-2" attributes="0"/>
+                          <Component id="fantaBestellen" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="wijnBestellen" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Component id="bonMaken" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="etenTekst" min="-2" max="-2" attributes="0"/>
+                  <Component id="drinkenTekst" min="-2" max="-2" attributes="0"/>
+                  <Component id="voorgerechttekst" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="pizzaBestelen" min="-2" max="-2" attributes="0"/>
+                  <Component id="colaBestellen" min="-2" max="-2" attributes="0"/>
+                  <Component id="carpaccioBestellen" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="43" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="soepBestellen" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="pasteBestellen" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="fantaBestellen" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="43" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="bruchettaBestellen" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="kindermenuBestellen" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="wijnBestellen" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="bonMaken" min="-2" max="-2" attributes="0"/>
+                      <Component id="kortingKnop" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="prijsWeergeven" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="49" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="java.awt.Button" name="pizzaBestelen">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="Pizza"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="pizzaBestelenActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Button" name="pasteBestellen">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="Pasta"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="pasteBestellenActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Button" name="kindermenuBestellen">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="Kindermenu"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="kindermenuBestellenActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Button" name="colaBestellen">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="Cola"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="colaBestellenActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Button" name="fantaBestellen">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="Fanta"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="fantaBestellenActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Button" name="wijnBestellen">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="Wijn"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="wijnBestellenActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Label" name="etenTekst">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Hoofdgerecht"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="drinkenTekst">
+      <Properties>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Drinken"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Button" name="bonMaken">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="Bon"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bonMakenActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Label" name="voorgerechttekst">
+      <Properties>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Voorgerecht"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Button" name="carpaccioBestellen">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="carpaccio"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="carpaccioBestellenActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Button" name="soepBestellen">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="Soep"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="soepBestellenActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Button" name="bruchettaBestellen">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="Bruchetta"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bruchettaBestellenActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Button" name="kortingKnop">
+      <Properties>
+        <Property name="label" type="java.lang.String" value="Korting"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="kortingKnopActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Label" name="prijsWeergeven">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="label1"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
